@@ -15,11 +15,15 @@ The main goal of the test is to build a side menu bar by having in count the fol
 ### How should looks like
 
 Expanded:
+
 ![Menu expanded](menu-expanded.png?raw=true "Menu expanded")
+
 - [reference to figma](https://www.figma.com/design/BybcTFgHhMMIOeS8ni3OAq/Exury?node-id=348-1807&t=1LdN9DZI4tOVChzC-4)
 
 Collapsed
+
 ![Menu collapsed](menu-collapsed.png?raw=true "Menu collapsed")
+
 - [reference to figma](https://www.figma.com/design/BybcTFgHhMMIOeS8ni3OAq/Exury?node-id=357-49912&t=1LdN9DZI4tOVChzC-4)
 
 ### How to use
