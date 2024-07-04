@@ -51,5 +51,5 @@ npm run dev
 ### Some hints
 
 - Icons are already installed part of [material ui](https://mui.com/material-ui/material-icons/)
-- For routing we recommend `react-router-dom`
+- For routing we recommend `vue router`
 - There is no need for any state management
