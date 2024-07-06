@@ -1,16 +1,15 @@
-# exury - Tech excersice  
-
+# exury - Tech excersice by Jose Ruiz
 
 ## Material UI - Vite.js in TypeScript example
 
 The main goal of the test is to build a side menu bar by having in count the following requirements:
 
-1. Must be full height but should not be fixed
-2. Needs to be implemented with Material UI components
-3. Must have a transition between collapsed and expanded
-4. Each link should route to a different route
-5. On each route the user must to have a different title on tab of the browser
-6. Mark as selected the actual active route
+1. Must be full height but should not be fixed - completed
+2. Needs to be implemented with Material UI components - completed
+3. Must have a transition between collapsed and expanded - completed
+4. Each link should route to a different route - completed
+5. On each route the user must to have a different title on tab of the browser - completed
+6. Mark as selected the actual active route - completed
 
 ### How should looks like
 
@@ -44,8 +43,8 @@ npm -v # should print `10.7.0`
 Once you got node installed, just install the project and you're ready to start coding:
 
 ```bash
-npm install
-npm run dev
+yarn
+yarn dev
 ```
 
 ### Some hints
